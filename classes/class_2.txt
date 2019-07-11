@@ -1,0 +1,13 @@
+Class: Desk
+
+Attributes:
+height (integer)
+number_of_legs (integer)
+broken (boolean)
+color ("string")
+
+Methods:
+paint_desk (change or update the color)
+repair_desk (fix a broken desk)
+count_desk_legs (count the number of legs on the desk)
+assign_desk (place name tag on desk)
