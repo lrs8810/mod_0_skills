@@ -1,0 +1,14 @@
+Object: Alice
+
+Attributes:
+current_height: 60
+beginning_of_school_year_height: 58
+name: "Alice"
+honors_student: false
+grades: {history: 84, math: 75, science: 68, art: 94}
+
+Methods:
+height_gained_during_school_year: 60 - 58
+current_age: 2019 - 2002
+grades_qualify_for_honors: 80.25 < 85 so false
+grade_average: (84 + 75 + 68 + 94)/4 = 80.25
