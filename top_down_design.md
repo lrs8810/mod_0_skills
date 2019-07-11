@@ -1,9 +1,7 @@
+
 1 how to become a Turing student
-
   1.1 research Turing
-
     1.1.1 visit Turing website
-    
       1.1.1.1 investigate backend program
       1.1.1.2 investigate frontend program
     1.1.2 read medium articles about Turing
