@@ -1,0 +1,12 @@
+Class: Student
+
+Attributes:
+current_height (integer)
+beginning_of_school_year_height (integer)
+name (string)
+honors_student (boolean)
+
+
+Methods:
+height_gained_during_school_year (current_height - beginning_of_school_year_height)
+current_age (current_date - birth_date)
