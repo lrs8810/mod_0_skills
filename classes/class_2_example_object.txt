@@ -1,0 +1,13 @@
+Object: Teacher's Desk
+
+Attributes:
+height: 38
+number_of_legs: 4
+broken: true
+color: "brown"
+
+Methods:
+paint_desk (paint desk to black color)
+repair_desk (fix crack in middle of desk)
+count_desk_legs (count individual legs which equals 4)
+assign_desk (place Ms. Brown name tag on desk)
