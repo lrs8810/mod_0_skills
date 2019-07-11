@@ -7,10 +7,14 @@
     1.1.2 read medium articles about Turing
     1.1.3 watch YouTube videos about Turing
     1.1.4 attend Try Coding weekend
-    1.2.2 speak with current students and alumni
+    1.1.5 speak with current students and alumni
+
   1.2 apply to Turing
+
     1.2.1 visit website
+
     1.2.2 click start Turing application
+
     1.2.3 complete Turing application
       1.2.3.1 complete information  
       1.2.3.2 upload resume
