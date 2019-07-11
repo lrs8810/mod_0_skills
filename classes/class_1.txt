@@ -5,8 +5,10 @@ current_height (integer)
 beginning_of_school_year_height (integer)
 name (string)
 honors_student (boolean)
-
+grades (hash)
 
 Methods:
 height_gained_during_school_year (current_height - beginning_of_school_year_height)
 current_age (current_date - birth_date)
+grades_qualify_for_honors (if grade average >85 then true)
+grade_average (add all 4 classes and divide by 4)
