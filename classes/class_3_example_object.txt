@@ -1,0 +1,14 @@
+Object: JanSport
+
+Attributes:
+color: "white"
+total_capacity: 25
+current_capacity: 12
+zipped: true
+pins: ("NASA", "Spongebob", "Sloth")
+
+Methods:
+fill_backpack: 25 - 12 = 13; fill the backpack with 13 L more of school supplies
+unzip: Unzip the backpack because the attribute was true
+dye_backpack: Dye the backpack color to "blue"
+add_pins: Add "Llama" pin to pins array resulting in ("NASA", "Spongebob", "Sloth", "Llama")
