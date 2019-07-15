@@ -1,0 +1,15 @@
+Class: Backpack
+
+Attributes:
+color (string)
+total_capacity (integer)
+current_capacity (integer)
+zipped (boolean)
+pins (array)
+
+
+Methods:
+fill_backpack (total_capacity - current_capacity and fill the remaining amount)
+unzip (if zipped (attribute) equals true, unzip the backpack)
+dye_backpack (if color (attribute) equals "white" then dye backpack "blue")
+add_pins (add a backpack pin to the Pins array)
